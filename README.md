@@ -14,3 +14,9 @@ Optional
     ritwickdey.LiveServer
     erikphansen.vscode-toggle-column-selection
     file-icons
+
+    Shorcut:
+    https://docs.emmet.io/cheatsheet-a5.pdf
+
+    emotion:
+    https://unicode-table.com/en/sets/star-symbols/
