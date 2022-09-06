@@ -1,5 +1,5 @@
 # My Cv
-https://symphonious-ganache-583af9.netlify.app/    My Website
+https://fran-technology.netlify.app   My Website
 
 VSCode Extensions
 Recommended
