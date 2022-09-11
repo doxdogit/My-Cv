@@ -1,4 +1,12 @@
+body{
+    background-color: #faf24e;
+    margin: 0 10%;
+    font-family: sans-serif;
+}
+
+
 img{
-    width: 100%
+    width: 400px;
+    height: 200px;
 }
 
